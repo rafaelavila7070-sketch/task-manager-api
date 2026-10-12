@@ -74,7 +74,8 @@ git clone URL_DO_SEU_REPOSITORIO
 cd task-manager-api
 ```
 
-Substitua `URL_DO_SEU_REPOSITORIO` pelo endereço real do repositório no GitHub.
+Substitua 
+git clone `https://github.com/rafaelavila7070-sketch/task-manager-api.git` pelo endereço real do repositório no GitHub.
 
 ### 2. Configurar o banco de dados
 
