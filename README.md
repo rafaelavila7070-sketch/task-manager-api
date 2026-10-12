@@ -70,7 +70,7 @@ Antes de executar o projeto, é necessário ter instalado:
 ### 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
+git clone https://github.com/rafaelavila7070-sketch/task-manager-api.git
 cd task-manager-api
 ```
 
